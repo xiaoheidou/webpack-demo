@@ -1,0 +1,9 @@
+.aa{
+    color:red;
+}
+.h1{
+    color: yellow;
+}
+:global(.h2) {
+    color: blue;
+}
